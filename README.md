@@ -1,1 +1,2 @@
-# Data-Mining-Sleep-Pattern-Project
+# Data-Mining-Sleep-Recovery-Score-Project
+This project develops a sleep recovery score to evaluate and enhance sleep quality using wearable sensor data collected over 138 nights. The approach involves analyzing sleep movement data, identifying deep sleep periods, and classifying sleep states (Light, Paradoxical, Awake) using K-means clustering. Outlier detection highlights unusual sleep patterns, while comparisons with ideal sleep benchmarks assess deviations. A recovery score is calculated through standardized and normalized metrics, utilizing both K-means and hierarchical clustering. The final score averages these methods, providing insights into sleep trends and quality across nights.
